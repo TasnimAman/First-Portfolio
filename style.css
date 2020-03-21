@@ -1,0 +1,37 @@
+body {
+    font-family: 'Baloo 2', cursive;
+    margin: 0;
+}
+h1 {
+font-size: 40px;
+
+}
+.highlight {
+    color: orange;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 5%;
+}
+.half-width img {
+    width: 90%;
+    
+}
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section {
+    height: 500px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 8px 17px;
+    border-radius: 5px;
+    color: peachpuff;
+    font-weight: 700;
+
+}
